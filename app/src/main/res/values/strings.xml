@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">splashscreen</string>
+    <string name="helloWorld">You Did It!</string>
+    <string name="startButton" />
+    <string name="startButtonText">Press anywhere to start</string>
+    <string name="splashDescription">Creature Combat splash screen</string>
+</resources>

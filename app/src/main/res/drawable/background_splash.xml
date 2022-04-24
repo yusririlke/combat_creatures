@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item
+
+        android:layout_height="match_parent">
+
+        <bitmap
+            android:width="1266dp"
+            android:height="2000dp"
+            android:layout_height="match_parent"
+            android:src="@drawable/splash"/>
+    </item>
+
+</layer-list>
+
+
