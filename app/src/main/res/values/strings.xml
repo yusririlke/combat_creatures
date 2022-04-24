@@ -4,4 +4,8 @@
     <string name="startButton" />
     <string name="startButtonText">Press anywhere to start</string>
     <string name="splashDescription">Creature Combat splash screen</string>
+    <string name="newGame">NEW GAME</string>
+    <string name="settings">SETTINGS</string>
+    <string name="credits">CREDITS</string>
+    <string name="logoDescription">Combat Creatures logo</string>
 </resources>

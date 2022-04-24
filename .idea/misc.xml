@@ -4,8 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Yusri Zafri/Documents/Yuni/PSH/CMPSC 475/splashscreen/app/src/main/res/drawable/background_splash.xml" value="0.25555555555555554" />
+        <entry key="..\:/Users/Yusri Zafri/Documents/Yuni/PSH/CMPSC 475/splashscreen/app/src/main/res/drawable/ic_launcher_background.xml" value="0.31875" />
+        <entry key="..\:/Users/Yusri Zafri/Documents/Yuni/PSH/CMPSC 475/splashscreen/app/src/main/res/drawable/mtext.xml" value="0.3109375" />
         <entry key="..\:/Users/Yusri Zafri/Documents/Yuni/PSH/CMPSC 475/splashscreen/app/src/main/res/layout/activity_main.xml" value="0.33" />
-        <entry key="..\:/Users/Yusri Zafri/Documents/Yuni/PSH/CMPSC 475/splashscreen/app/src/main/res/layout/activity_menu.xml" value="0.309375" />
+        <entry key="..\:/Users/Yusri Zafri/Documents/Yuni/PSH/CMPSC 475/splashscreen/app/src/main/res/layout/activity_menu.xml" value="0.25" />
         <entry key="..\:/Users/Yusri Zafri/Documents/Yuni/PSH/CMPSC 475/splashscreen/app/src/main/res/layout/activity_splash.xml" value="0.20520833333333333" />
       </map>
     </option>
